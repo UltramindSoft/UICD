@@ -1,5 +1,5 @@
 # UICD  (Urdu Image Captioning Dataset)
-A New Dataset for Urdu Image Captioning, this is an Urdu version of a Flickr30K.
+A New Dataset for Urdu Image Captioning.
 ![image](https://github.com/user-attachments/assets/1f8622dd-632e-490b-9771-26d78d8473e0)
 
 
